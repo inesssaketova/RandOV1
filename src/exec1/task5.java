@@ -1,4 +1,4 @@
-package lab1;
+package exec1;
 import java.util.Scanner;
 
 /* Ввести три целых числа в консоли. Вывести на экран наименьшее из них. */

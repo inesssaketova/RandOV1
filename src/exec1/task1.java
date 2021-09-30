@@ -1,4 +1,4 @@
-package lab1;
+package exec1;
 import java.util.Scanner;
 
 /* Ввести целое число в консоли и вывести на экран последнюю цифру введенного числа. */
